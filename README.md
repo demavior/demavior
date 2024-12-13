@@ -8,15 +8,15 @@ Hi, I'm **Martin Vivas** — a developer passionate about blending creativity an
 
 - 📊 **Data Analytics & Visualization**: `Pandas`, `Numpy`, `Matplotlib`, ETL Processes, Data Wrangling, Exploratory Data Analysis
 
-- 🗄️ **Databases**: SQL(`Oracle SQL`, `PL/SQL`, `MySQL`, `SQL Server`), Data Modeling, `Django`, `FastAPI`
+- 🗄️ **Databases**: SQL(`Oracle SQL`, `PL/SQL`, `MySQL`, `SQL Server`), Data Modeling, Store Procedures and Triggers, SQL Optimization
 
-- 🤖 **Machine Learning & Deep Learning**: `TensorFlow`, `Keras`, `OpenAI`, `Hugging Faces`
+- 🤖 **Machine Learning & Deep Learning**: `TensorFlow`, `Keras`, `OpenAI`, `Hugging Faces`, Google Colab
 
-- 💻 **Programming**: `Python`, `Java`, `R`, `VS Code`, `GitHub`
+- 💻 **Programming**: `Python`, `Java`, `R`, `VS Code`, `GitHub`, `Django`, `FastAPI`, REST API
 
 - ☁️ **Cloud & Web Development**: `Google Cloud Platform`, `HTML`, `CSS`, `JavaScript`, `React`, `Docker`
 
-- 📋 **Project Management & Collaboration**: `Trello`, `Jira`, `Scrum`
+- 📋 **Project Management & Collaboration**: `Trello`, `Jira`, `Scrum`, `Github`
 
 
 ---
