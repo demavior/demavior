@@ -6,30 +6,30 @@ Hi, I'm **Martin Vivas** — a developer passionate about blending creativity an
 
 ### 🧰 My Toolbox
 
-📊 **Data Analytics & Visualization**: `Pandas`, `Numpy`, `Matplotlib`, ETL Processes, Data Wrangling, Exploratory Data Analysis
+- 📊 **Data Analytics & Visualization**: `Pandas`, `Numpy`, `Matplotlib`, ETL Processes, Data Wrangling, Exploratory Data Analysis
 
-🗄️ **Databases**: SQL(`Oracle SQL`, `PL/SQL`, `MySQL`, `SQL Server`), Data Modeling, `Django`, `FastAPI`
+- 🗄️ **Databases**: SQL(`Oracle SQL`, `PL/SQL`, `MySQL`, `SQL Server`), Data Modeling, `Django`, `FastAPI`
 
-🤖 **Machine Learning & Deep Learning**: `TensorFlow`, `Keras`, `OpenAI`, `Hugging Faces`
+- 🤖 **Machine Learning & Deep Learning**: `TensorFlow`, `Keras`, `OpenAI`, `Hugging Faces`
 
-💻 **Programming**: `Python`, `Java`, `R`, `VS Code`, `GitHub`
+- 💻 **Programming**: `Python`, `Java`, `R`, `VS Code`, `GitHub`
 
-☁️ **Cloud & Web Development**: `Google Cloud Platform`, `HTML`, `CSS`, `JavaScript`, `React`, `Docker`
+- ☁️ **Cloud & Web Development**: `Google Cloud Platform`, `HTML`, `CSS`, `JavaScript`, `React`, `Docker`
 
-📋 **Project Management & Collaboration**: `Trello`, `Jira`, `Scrum`
+- 📋 **Project Management & Collaboration**: `Trello`, `Jira`, `Scrum`
 
 
 ---
 
 ### 🌟 Projects That Excite Me
 
-- 🔹 **[Learning Assistant](https://github.com/demavior/Learning-Assistant-for-Diverse-Learning-Needs)**
+- **[Learning Assistant](https://github.com/demavior/Learning-Assistant-for-Diverse-Learning-Needs)**
    A real-time assistant for live lectures, integrating audio-to-text processing and smart summarization and translation.
 
-- 🔹 **[Patients' Experience in Public Health](https://github.com/demavior/PublicHealthExperience)**
+- **[Patients' Experience in Public Health](https://github.com/demavior/PublicHealthExperience)**
    Conducted comprehensive analysis and visualization of public health data nationwide, identifying patterns and trends related to patient satisfaction.
 
-- 🔹 **[Bowling Scoring League](https://github.com/demavior/BowlingLeagueScoringAPI)**
+- **[Bowling Scoring League](https://github.com/demavior/BowlingLeagueScoringAPI)**
    API developer for a system enabling users to create teams, join leagues, report scores, and access information, along with administrator features for managing leagues and matches.
 
 ---
