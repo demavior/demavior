@@ -49,8 +49,8 @@ Outside of coding, I have a deep love for sports and music:
 - 🎾 **Sports Enthusiast:** I played tennis on the Huntington University team and still enjoy playing tennis, pickleball, basketball, soccer, and table tennis.
 - 📊 **Sports Statistics:** My fascination with sports statistics led me to discover my passion first for databases and eventually for data analysis.
 - ♟️ **Games I Love:** Chess, Sudoku, and other mind-challenging activities keep me sharp.
-- 🎹 **Music:** I enjoy playing the piano as a creative outlet.
-- 🤝 **Community:** I’ve actively participated in a Hispanic ministry at my church, contributing to meaningful community projects.
+- 🎹 **Music:** I enjoy playing the piano whenever I have the opportunity, as a creative outlet.
+- 🤝 **Community:** I’ve participated in a Hispanic Ministry, contributing to meaningful community projects.
 
 ---
 
