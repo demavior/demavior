@@ -8,15 +8,15 @@ Hi, I'm **Martin Vivas** — a developer passionate about blending creativity an
 
 - 📊 **Data Analytics & Visualization**: `Pandas`, `Numpy`, `Matplotlib`, ETL Processes, Data Wrangling, Exploratory Data Analysis
 
-- 🗄️ **Databases**: SQL(`Oracle SQL`, `PL/SQL`, `MySQL`, `SQL Server`), Data Modeling, Store Procedures and Triggers, SQL Optimization
+- 🗄️ **Databases**: `Oracle SQL`, `PL/SQL`, `MySQL`, `SQL Server`, Data Modeling, Stored Procedures and Triggers, SQL Optimization
 
-- 🤖 **Machine Learning & Deep Learning**: `TensorFlow`, `Keras`, `OpenAI`, `Hugging Faces`, Google Colab
+- 🤖 **"Machine & Deep Learning"**: `TensorFlow`, `Keras`, `OpenAI`, `Hugging Face`, `Google Colab`, `Jupyter Notebooks`, `RStudio`
 
-- 💻 **Programming**: `Python`, `Java`, `R`, `VS Code`, `GitHub`, `Django`, `FastAPI`, REST API
+- 💻 **Programming**: `Python`, `Java`, `R`, `VS Code`, `GitHub`, `Django`, `FastAPI`, `REST API`
 
 - ☁️ **Cloud & Web Development**: `Google Cloud Platform`, `HTML`, `CSS`, `JavaScript`, `React`, `Docker`
 
-- 📋 **Project Management & Collaboration**: `Trello`, `Jira`, `Scrum`, `Github`
+- 📋 **Project Management & Collaboration**: `GitHub`, `Trello`, `Jira`, Scrum
 
 
 ---
@@ -38,7 +38,8 @@ Hi, I'm **Martin Vivas** — a developer passionate about blending creativity an
 
 - 📧 **Email:** [vivasdema@gmail.com](mailto:vivasdema@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/demavior](https://www.linkedin.com/in/demavior)
-- 🌍 **Website:** [demavior.github.io](https://demavior.github.io)
+- 🐱 **GitHub:** [github.com/demavior](https://github.com/demavior)
+- 🌍 **Website:** [demavior.github.io](https://demavior.github.io)   
 
 ---
 
