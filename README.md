@@ -4,6 +4,13 @@ Hi, I'm **Martin Vivas** — a developer passionate about blending creativity an
 
 ---
 
+### 📊 GitHub Stats
+
+![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=demavior)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demavior&size_weight=0.5&count_weight=0.5&layout=compact)
+
+---
+
 ### 🧰 My Toolbox
 
 - 📊 **Data Analytics & Visualization**: `Pandas`, `Numpy`, `Matplotlib`, ETL Processes, Data Wrangling, Exploratory Data Analysis
